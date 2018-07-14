@@ -4,4 +4,3 @@ First commit
 
 A change in a PR
 
-
